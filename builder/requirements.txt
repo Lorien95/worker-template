@@ -6,3 +6,7 @@
 # To learn more, see https://pip.pypa.io/en/stable/reference/requirements-file-format/
 
 runpod==1.6.2
+opencv-python-headless
+pillow
+torch
+numpy
